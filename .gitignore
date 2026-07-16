@@ -1,0 +1,10 @@
+# Root ignore rules
+.env
+.env.local
+.env.*.local
+
+# IDEs and System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
