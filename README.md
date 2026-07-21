@@ -97,5 +97,5 @@ Make sure you have installed:
 
 ## Live Deployments
 
--   **Frontend**: [Insert Your Vercel Link Here]
--   **Backend API**: [Insert Your Render Link Here, or run locally!]
+-   **Frontend**: [https://forge2-qualifier-swastik-cq3c.vercel.app/](https://forge2-qualifier-swastik-cq3c.vercel.app/)
+-   **Backend API**: Run locally via `php artisan serve` (See instructions above)
